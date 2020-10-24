@@ -10,18 +10,23 @@
     "env": {
         "TEAM_DRIVE_ID": {
             "description": "the ID of the team drive"
+            "value": "true"
         },
         "SA_JSON_1": {
             "description": "follow the tips and FAQ in README.md"
+            "value": "true"
         },
         "SA_JSON_2": {
             "description": "follow the tips and FAQ in README.md"
+            "value": "true"
         },
         "RCLONE_DESTINATION": {
             "description": "the path where stores the downloaded data,for example:/ikuuu,don't add a \"/\" at the end"
+            "value": "true"
         },
         "LOG_PATH": {
             "description": "the path where stores the downloaded statistic log, start with \"/\", for exmaple: /log"
+            "value": "true"
         },
         "adminUser": {
             "description": "the only user which you can login in the web page"
